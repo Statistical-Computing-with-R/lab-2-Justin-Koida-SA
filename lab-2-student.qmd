@@ -1,7 +1,12 @@
 ---
 title: "Lab 2: Exploring Rodents with `ggplot2`"
 author: "Justin Koida"
-format: html
+format: 
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 2
+    toc-title: Lab 2 Table of Contents
 editor: source
 embed-resources: true
 code-tools: true
